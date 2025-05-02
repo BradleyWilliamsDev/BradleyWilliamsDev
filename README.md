@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! 👋🏻 I am Bradley Williams a fullstack developer from South Africa.
+# About Me:
+Hi! I am Bradley Williams a fullstack developer from South Africa.
 
 
 # 💻 Tech Stack:
